@@ -1,103 +1,95 @@
-word,question_prompt_pre,question_prompt_post,question_type,bin,choice1,choice2,choice3,choice4,choice5,num_item_id
-grrr (sound),The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,4
-woof woof (animal sound),The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,11
-bird,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,18
-deer,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,25
-giraffe,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,32
-monkey,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,39
-puppy,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,46
-turtle,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,53
-car,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,60
-train,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,67
-book,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,74
-pen,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,81
-apple,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,88
-candy,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,95
-coffee,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,102
-egg,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,109
-hamburger,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,116
-meat,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,123
-pancake,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,130
-potato chip,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,137
-sandwich,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,144
-tuna,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,151
-bib,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,158
-hat,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,165
-scarf,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,172
-sock,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,179
-belly button,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,186
-finger,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,193
-lips,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,200
-tongue,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,207
-bowl,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,214
-clock,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,221
-glasses,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,228
-medicine,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,235
-picture,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,242
-soap,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,249
-trash,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,256
-bathtub,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,263
-crib,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,270
-living room,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,277
-room,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,284
-TV,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,291
-garden,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,298
-rain,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,305
-slide (object),The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,312
-street,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,319
-camping,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,326
-home,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,333
-playground,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,340
-aunt,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,347
-clown,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,354
-grandma,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,361
-child's own name,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,368
-uncle,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,375
-gonna get you!,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,382
-no,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,389
-so big!,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,396
-break,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,403
-chase,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,410
-cry,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,417
-dry (action),The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,424
-fit,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,431
-hear,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,438
-jump,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,445
-look,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,452
-pour,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,459
-rip,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,466
-sing,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,473
-splash,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,480
-take,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,487
-touch,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,494
-wish,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,501
-better,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,508
-clean (description),The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,515
-fast,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,522
-happy,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,529
-last,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,536
-nice,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,543
-red,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,550
-sticky,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,557
-windy,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,564
-morning,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,571
-yesterday,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,578
-it,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,585
-that,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,592
-us,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,599
-when,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,606
-around,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,613
-down,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,620
-off,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,627
-under,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,634
-another,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,641
-not,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,648
-are,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,655
-don't,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,662
-try/try to,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,669
-because,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general,676
-Five + 2 is seven,,,catch,5,(1) Strongly disagree,(2) Somewhat disagree,(3) Neither agreee nor disagree,(4) Somewhat agree,(5) Strongly agree
-The word blue has four letters,,,catch,5,(1) Strongly disagree,(2) Somewhat disagree,(3) Neither agreee nor disagree,(4) Somewhat agree,(5) Strongly agree
-Triangles have four sides,,,catch,1,(1) Strongly disagree,(2) Somewhat disagree,(3) Neither agreee nor disagree,(4) Somewhat agree,(5) Strongly agree
-An elephant is smaller than a mouse,,,catch,1,(1) Strongly disagree,(2) Somewhat disagree,(3) Neither agreee nor disagree,(4) Somewhat agree,(5) Strongly agree
-Four is larger than two,,,catch,5,(1) Strongly disagree,(2) Somewhat disagree,(3) Neither agreee nor disagree,(4) Somewhat agree,(5) Strongly agree
+word,pos,question_prompt_pre,question_prompt_post,question_type,bin,choice1,choice2,choice3,choice4,choice5
+way,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+past,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+toys,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+chips,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+blocks,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+meat,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+nips,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+bridge,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+doll,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+song,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+pool,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+cloud,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+hand,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+moo,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+boxes,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+seat,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+medicine,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+roof,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+person,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+magic,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+bath,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+bricks,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+see,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+hurt,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+crying,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+hear,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+falling,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+step,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+oink,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+flying,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+told,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+dressed,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+snowing,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+spilt,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+choose,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+peeping,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+laying,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+seeing,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+taken,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+scratching,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+burning,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+setting,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+crawling,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+carried,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+bang,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+goat,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+horse,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+horses,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+straw,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+truck,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+dinosaur,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+biscuits,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+cup,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+sock,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+knife,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+cracker,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+fish,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+dress,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+flowers,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+trousers,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+pan,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+napkin,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+egg,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+lid,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+butter,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+glasses,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+birds,noun,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+sings,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+bet,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+tire,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+sharing,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+clapping,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+saw,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+squeak,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+scare,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+spin,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+hugging,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+tied,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+crunched,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+fitting,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+write,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+pick,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+hit,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+cook,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+bash,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+mend,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+zoom,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+smack,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+squirt,verb,The meaning, is... ,hypernymy,5,(1) Very specific/narrow,(2),(3),(4),(5) Very general
+Five + 2 is seven,,,catch,5,(1) Strongly disagree,(2) Somewhat disagree,(3) Neither agreee nor disagree,(4) Somewhat agree,(5) Strongly agree,
+The word blue has four letters,,,catch,5,(1) Strongly disagree,(2) Somewhat disagree,(3) Neither agreee nor disagree,(4) Somewhat agree,(5) Strongly agree,
+Triangles have four sides,,,catch,1,(1) Strongly disagree,(2) Somewhat disagree,(3) Neither agreee nor disagree,(4) Somewhat agree,(5) Strongly agree,
+An elephant is smaller than a mouse,,,catch,1,(1) Strongly disagree,(2) Somewhat disagree,(3) Neither agreee nor disagree,(4) Somewhat agree,(5) Strongly agree,
+Four is larger than two,,,catch,5,(1) Strongly disagree,(2) Somewhat disagree,(3) Neither agreee nor disagree,(4) Somewhat agree,(5) Strongly agree,
